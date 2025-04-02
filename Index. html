@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Legal Firm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Our Legal Firm</h1>
+        <p><strong>Address:</strong> 123 Law Street, City, Country</p>
+        <p><strong>Contact:</strong> +91 98765 43210 | email@example.com</p>
+        <h2>Our Services</h2>
+        <ul>
+            <li>Legal Consultation</li>
+            <li>Case Management</li>
+            <li>Online Legal Advice</li>
+        </ul>
+    </div>
+</body>
+</html>
